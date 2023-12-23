@@ -41,5 +41,6 @@ public class bai1 {
 //        a%=5;
 //        a-=(b+7);
 //        System.out.println("a="+a);
+        hv
     }
 }
